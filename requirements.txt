@@ -1,0 +1,4 @@
+networkx==2.5.1
+numpy
+obonet
+gensim==4.1.1
